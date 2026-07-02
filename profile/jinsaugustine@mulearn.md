@@ -99,7 +99,7 @@
 
 #### Networking:
 
-- I enjoy connecting with developers, cybersecurity enthusiasts, and students passionate about building real-world projects.
+- I like connecting with developers, cybersecurity enthusiasts, and students passionate about building real-world projects.
 - Through μFIFA, I hope to collaborate with people across different domains, exchange ideas, contribute to open-source initiatives, and learn from a diverse community of builders.
 
 #### Career Plan:
